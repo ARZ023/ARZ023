@@ -10,8 +10,8 @@
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amer-zughier)
-  [![Email](https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zughier)
+  [![Email](https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zughier20@gmail.com)
   [![Location](https://img.shields.io/badge/Amman-Jordan-6d28d9?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.app.goo.gl/amman)
 
 </div>
