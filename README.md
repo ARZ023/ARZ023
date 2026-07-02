@@ -1,142 +1,86 @@
-# Hi, I'm Amer Zughier 👋
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Amer%20Zughier&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Information%20Security%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&height=120&lines=Hi%2C+I'm+Amer+Zughier+👋;Information+Security+Engineer;Full-Stack+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
+  <em>Crafting secure, scalable, and AI-driven enterprise systems</em>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amer%20Zughier-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amer-zughier)
-[![Location](https://img.shields.io/badge/📍%20Amman-Jordan-6d28d9?style=for-the-badge)](https://maps.app.goo.gl/amman)
-[![Degree](https://img.shields.io/badge/🎓%20B.Sc.-Information%20Security-7c3aed?style=for-the-badge)]()
-[![Open to Work](https://img.shields.io/badge/✅%20Open%20to-Opportunities-10b981?style=for-the-badge)]()
+<br />
+
+<div align="center">
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amer-zughier)
+  [![Email](https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+  [![Location](https://img.shields.io/badge/Amman-Jordan-6d28d9?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.app.goo.gl/amman)
 
 </div>
 
 ---
 
-## 👋 About Me
+### 👨‍💻 The Quick Pitch
 
-I'm a fresh graduate in **Information Security** with a strong passion for building secure, scalable, real-world systems. I designed and developed a **production-grade ERP platform** for a transportation company — end to end, from database architecture to deployed cloud infrastructure — handling live payments, automated fraud detection, and AI-powered transaction processing.
+I am a fresh graduate in **Information Security** who believes that security should be built into the foundation of every application, not bolted on afterward. 
 
-I care about writing clean, maintainable code and building systems that are secure by design.
+I don't just write scripts—I build **production-grade enterprise platforms**. Recently, I designed, developed, and deployed a complete ERP system for a transportation company that handles real payments, real drivers, and live fraud detection using AI.
 
 ```yaml
-Name:        Amer Zughier
-Location:    Amman, Jordan 🇯🇴
-Degree:      B.Sc. Information Security
-Focus:       Secure Full-Stack Systems · Cloud Infrastructure · AI Integration
-Status:      Open to opportunities — Full-time / Freelance
+Profile:
+  - Name: Amer Zughier
+  - Degree: B.Sc. Information Security
+  - Focus: Secure Architecture, AI Integration, Cloud Infra
+  - Status: Open to opportunities (Full-time / Freelance)
 ```
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-**Backend & Cloud**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-**Security & AI**
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Row Level Security](https://img.shields.io/badge/Row%20Level%20Security-6d28d9?style=for-the-badge&logo=postgresql&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude%20AI-D4A017?style=for-the-badge&logo=anthropic&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+  <br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,nodejs,supabase,postgres,deno,cloudflare,gcp,git,github&theme=dark&perline=6" alt="Tech Stack Icons" />
+  <br/>
 </div>
 
 ---
 
-## 🚀 Featured Project
+### 🚀 Flagship Project: TaxiF ERP System
 
-### 🚕 TaxiF — Full ERP System for a Transportation Company
+> *A complete, production-running enterprise system built from scratch and deployed into live operations.*
 
-> A complete, production-running enterprise system built from scratch and deployed into live operations, handling real payments, real drivers, and real money.
-
-| Layer | What was built |
-|---|---|
-| **Payment Engine** | End-to-end CliQ bank transfer processing with fraud detection, scoring, and auto-approval |
-| **AI Reconciler** | Claude AI-powered screenshot parsing and automatic payment matching against live bank SMS |
-| **WhatsApp Bot** | Multi-slot Baileys bot handling driver onboarding, payment submissions, and support tickets |
-| **Dashboard** | React admin panel with real-time transaction review, analytics, staff roles, and audit logs |
-| **Security Layer** | Full Row Level Security (RLS) policies, JWT auth, API key management, and WAF header hardening |
-| **Infrastructure** | Supabase (PostgreSQL + Edge Functions), Cloudflare Pages, Render (Node.js), MacroDroid automation |
-| **Automation** | pg_cron auto-reconciler, Telegram/WhatsApp notifications, Wordesk CRM integration |
-
-**Key metrics:**
-- 🏦 Processes **live bank SMS** from multiple phones in real-time
-- 🤖 Automated **fraud detection** with 8-point validation pipeline
-- 💬 **Multi-bot WhatsApp** system routing hundreds of driver sessions
-- 📊 Full **audit log** and staff permission system
-- 🔒 Security-first database design — no raw SQL execution, all queries parameterized
+- 🏦 **Live Payment Engine:** Processes CliQ bank transfers with a custom 8-point automated fraud detection pipeline.
+- 🤖 **AI-Powered Reconciler:** Integrates Claude AI for screenshot parsing and automatic payment matching against live bank SMS streams.
+- 💬 **Multi-slot WhatsApp Bot:** Baileys-powered automation for driver onboarding, support tickets, and payment submissions.
+- 🔐 **Security First:** Implements granular Row Level Security (RLS), JWT auth, and WAF header hardening. No raw SQL execution.
+- ⚡ **Cloud Infrastructure:** Powered by Supabase (Postgres + Edge Functions), Cloudflare Pages, and Render.
 
 ---
 
-## 📊 GitHub Activity
+### 📈 GitHub Analytics
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ARZ023&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak Stats" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARZ023&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ARZ023&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
-
+  <img src="https://streak-stats.demolab.com?user=ARZ023&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" alt="Streak Stats" />
 </div>
 
 ---
 
-## 🔐 Information Security Focus
+### 🛡️ Security Expertise
 
-My degree gave me a solid foundation in:
-
-- **Application Security** — secure coding, injection prevention, input validation
+My degree and practical experience provide a strong foundation in:
+- **Application Security** — Secure coding, input validation, injection prevention
 - **Cryptography** — JWT, hashing, secure key management
-- **Network Security** — WAF, HTTPS, API hardening, rate limiting
-- **Database Security** — Row Level Security (RLS), least-privilege access control
-- **Incident Response & Audit** — audit logging, anomaly detection, access monitoring
+- **Network Security** — WAF, HTTPS, API rate limiting
+- **Database Security** — RLS, least-privilege access control
+- **Incident Response** — Audit logging, anomaly detection
 
----
-
-## 📫 Get in Touch
+<br/>
 
 <div align="center">
-
-I'm actively looking for opportunities in **full-stack development**, **backend engineering**, or **security engineering** roles.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amer-zughier)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
 </div>
